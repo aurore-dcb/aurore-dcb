@@ -1,5 +1,14 @@
-### Hi there 👋
-
+### Hi 👋
+***
+I'm Aurore, currently studying at 42 School Paris.
+***
+## Currently learning ...
+- C
+- C++
+- HTML
+- CSS
+- JS
+- Python ![Python](https://img.shields.io/badge/Python-3.7-blue.svg)
 <!--
 **aurore-dcb/aurore-dcb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
